@@ -1,12 +1,15 @@
 # Directories #
 build/
 bin/
+gradle/
 target/
 libs/
 tmp/
 out/
 node_modules/
 jaxws/jaxws-client/src/main/
+.git/
+
 
 # OS Files #
 .DS_Store
