@@ -1,7 +1,6 @@
 # Directories #
 build/
 bin/
-gradle/
 target/
 libs/
 tmp/
@@ -9,6 +8,9 @@ out/
 node_modules/
 jaxws/jaxws-client/src/main/
 .git/
+.build.gradle.swo
+.build.gradle.swp
+
 
 
 # OS Files #
@@ -71,3 +73,8 @@ local.properties
 
 # Testing environment specific
 derby.log
+
+*.swo
+*.swp
+*.bat
+
